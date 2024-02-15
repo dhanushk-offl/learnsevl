@@ -1,5 +1,5 @@
 <script>
-import Content as '$lib/components/content.svelte';
+import Content from '$lib/components/content.svelte';
 </script>
 <title>Hello Testing Website </title>
 <body>
